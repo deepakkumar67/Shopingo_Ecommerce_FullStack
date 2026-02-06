@@ -1,0 +1,1 @@
+To run the project locally, first start the backend by navigating to the server folder in the terminal and running npm start. Then open a new terminal, go to the ecom folder, run npm run dev, and the project will be ready to preview locally.
